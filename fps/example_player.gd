@@ -3,10 +3,10 @@ extends KinematicBody
 # Walking variables.
 const norm_grav = -38.8
 const MAX_SPEED = 22
-const JUMP_SPEED = 26
+const JUMP_SPEED = 100
 const ACCEL= 8.5
 # Sprinting variables. Similar to the varibles above, just allowing for quicker movement
-const MAX_SPRINT_SPEED = 34
+const MAX_SPRINT_SPEED = 500
 const SPRINT_ACCEL = 18
 # How fast we slow down, and the steepest angle we can climb.
 const DEACCEL= 28
