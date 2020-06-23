@@ -1,3 +1,10 @@
+# Codename Pineapple summer 2020 project
+This is the repo for our godot game. To start developing: Clone this repo to your computer. Start Godot. Choose "import", then "browse". Find your cloned folder. Double click the project.godot file.
+
+
+
+
+
 # 3D Inverse Kinematics
 
 This is an example of different Inverse Kinematic algorithms
